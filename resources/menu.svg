@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <filter id="dot1" x="0" y="0" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="dot2" x="25" y="0" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="dot3" x="50" y="0" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="dot4" x="50" y="25" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="dot5" x="25" y="25" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="dot6" x="0" y="25" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="dot7" x="0" y="50" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="dot8" x="25" y="50" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="dot8-2" x="50" y="50" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="menu" transform="translate(-1519 -151)">
+    <g transform="matrix(1, 0, 0, 1, 1519, 151)" filter="url(#dot1)">
+      <path id="dot1-2" data-name="dot1" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(9 6)" fill="#737373"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1519, 151)" filter="url(#dot2)">
+      <path id="dot2-2" data-name="dot2" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(34 6)" fill="#737373"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1519, 151)" filter="url(#dot3)">
+      <path id="dot3-2" data-name="dot3" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(59 6)" fill="#737373"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1519, 151)" filter="url(#dot4)">
+      <path id="dot4-2" data-name="dot4" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(59 31)" fill="#737373"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1519, 151)" filter="url(#dot5)">
+      <path id="dot5-2" data-name="dot5" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(34 31)" fill="#737373"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1519, 151)" filter="url(#dot6)">
+      <path id="dot6-2" data-name="dot6" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(9 31)" fill="#737373"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1519, 151)" filter="url(#dot7)">
+      <path id="dot7-2" data-name="dot7" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(9 56)" fill="#737373"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1519, 151)" filter="url(#dot8)">
+      <path id="dot8-3" data-name="dot8" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(34 56)" fill="#737373"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1519, 151)" filter="url(#dot8-2)">
+      <path id="dot8-4" data-name="dot8" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(59 56)" fill="#737373"/>
+    </g>
+  </g>
+</svg>
